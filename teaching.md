@@ -4,5 +4,5 @@ title: Teaching
 permalink: /teaching/
 ---
 ### 2021
-* Advances in Neural Text Embeddings. Data Science Guest Lecture. University of Southern Denmark, Odense.
+* [Neural Embeddings, Trends in Language Representation since Word2Vec](/assets/cv.pdf). Data Science Guest Lecture. University of Southern Denmark, Odense.
 
