@@ -4,9 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-###  [Systematic performance variability and personalized parameter selection in collaborative filtering]()
+### [Submitted] [Systematic performance variability and personalized parameter selection in collaborative filtering]()
 Pantelis P. Analytis, Philipp Hager
 2022
+
 [Paper]()
 [&nbsp; Code]()
 
