@@ -34,6 +34,6 @@ I'm a first year Ph.D. candidate in computer science at the University of Amster
 ---
 
 ### 📬 Contact
-* 📨 <a href="mailto:p.k.hager@uva.nl">Email</a>
-* 🔗 [LinkedIn](https://www.linkedin.com/in/philipp-hager-72a432157/)
-* 🐙 [Github](https://github.com/philipphager/)
+<a href="mailto:p.k.hager@uva.nl">Email</a> |
+[Github](https://github.com/philipphager/) |
+[LinkedIn](https://www.linkedin.com/in/philipp-hager-72a432157/)
