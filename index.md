@@ -28,5 +28,5 @@ I'm a first year Ph.D. candidate in computer science at the University of Amster
 **M.Sc. IT-Systems Engineering, [University of Potsdam](https://hpi.de/en/index.html)** \\
 04/2017 - 07/2021 | Potsdam, DE
 
-**B.Sc. Media Informatics, [University of Applied Sciences](https://hpi.de/en/index.html)** \\
+**B.Sc. Media Informatics, [University of Applied Sciences Düsseldorf](https://hpi.de/en/index.html)** \\
 08/2013 - 04/2017 | Düsseldorf, DE
