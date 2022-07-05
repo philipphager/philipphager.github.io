@@ -32,5 +32,3 @@ I'm a first year Ph.D. candidate in computer science at the University of Amster
 
 **B.Sc. Media Informatics, [University of Applied Sciences Düsseldorf](https://hpi.de/en/index.html)** \\
 08/2013 - 04/2017 | Düsseldorf, DE
-
----
