@@ -3,6 +3,7 @@
 .jekyll-cache
 .jekyll-metadata
 _site
+vendor
 
 # Ignore hidden folders #
 # This takes care of .tmp, .sass-cache, and many others #
