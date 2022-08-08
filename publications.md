@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+### [Submitted] [Are Neural Click Models Pointwise IPS Rankers?]()
+Philipp Hager, Maarten de Rijke, Onno Zoeter
+(2022)
+
 ### [Submitted] [Systematic performance variability and personalized parameter selection in collaborative filtering]()
 Pantelis P. Analytis, Philipp Hager.
 (2022)
