@@ -12,7 +12,7 @@ Published in CONSEQUENCES+REVEAL Workshop co-located with *The ACM Conference on
 [&nbsp; Code](https://github.com/philipphager/ultr-cm-vs-ips)
 
 ### [Submitted] [Systematic performance variability and personalized parameter selection in collaborative filtering]()
-**Pantelis P. Analytis, Philipp Hager****
+**Pantelis P. Analytis, Philipp Hager**
 (2022)
 
 [Paper]()
