@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### [Are Neural Click Models Pointwise IPS Rankers?]()
-Philipp Hager, Maarten de Rijke, Onno Zoeter
+Philipp Hager, Maarten de Rijke, Onno Zoeter.
 Published in CONSEQUENCES+REVEAL Workshop co-located with *The ACM Conference on Recommender Systems (RecSys 2022)*.
 
 [Paper]()
