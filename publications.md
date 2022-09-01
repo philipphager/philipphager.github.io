@@ -8,7 +8,7 @@ permalink: /publications/
 **Philipp Hager, Maarten de Rijke, Onno Zoeter.**
 Published in CONSEQUENCES+REVEAL Workshop co-located with *The ACM Conference on Recommender Systems (RecSys 2022)*.
 
-[Paper]()
+[Paper](/assets/papers/2022-cm-vs-ips.pdf)
 [&nbsp; Code](https://github.com/philipphager/ultr-cm-vs-ips)
 
 ### [Submitted] [Systematic performance variability and personalized parameter selection in collaborative filtering]()
