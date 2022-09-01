@@ -3,7 +3,7 @@ layout: page
 title: Hey there 👋
 permalink: /
 ---
-I'm a first year Ph.D. candidate in computer science at the University of Amsterdam, supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/). I'm part of the [Mercury Machine Learning Lab](https://search.brave.com/search?q=Mercury+Machine+Learning+lav&source=web), a collaboration between the TU Delft, University of Amsterdam, and Booking.com. Currently, I am working on the evaluation of search and recommender systems and learning from historic user interactions.
+I'm a first year Ph.D. candidate in computer science at the University of Amsterdam, supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Onno Zoeter](https://dl.acm.org/profile/81315492758). I'm part of the [Mercury Machine Learning Lab](https://search.brave.com/search?q=Mercury+Machine+Learning+lav&source=web), a collaboration between the TU Delft, University of Amsterdam, and Booking.com. Currently, I am working on the evaluation of search and recommender systems and learning from historic user interactions.
 
 <a href="mailto:p.k.hager@uva.nl">Email</a>
 [&nbsp;Github](https://github.com/philipphager/)
