@@ -9,8 +9,8 @@ permalink: /publications/
 Published in CONSEQUENCES+REVEAL Workshop co-located with *The ACM Conference on Recommender Systems (RecSys 2022)*.
 
 [Paper](/assets/papers/2022-cm-vs-ips.pdf)
-[&nbsp; Code](https://github.com/philipphager/ultr-cm-vs-ips)
-[Poster](/assets/posters/2022-cm-vs-ips.pdf)
+[Code](https://github.com/philipphager/ultr-cm-vs-ips)&nbsp; 
+[Poster](/assets/posters/2022-cm-vs-ips.pdf)&nbsp;
 
 ### [Submitted] [Systematic performance variability and personalized parameter selection in collaborative filtering]()
 **Pantelis P. Analytis, Philipp Hager**
