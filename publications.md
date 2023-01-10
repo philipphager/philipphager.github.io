@@ -7,6 +7,7 @@ permalink: /publications/
 ### [Contrasting Neural Click Models and Pointwise IPS Rankers]()
 **Philipp Hager, Maarten de Rijke, Onno Zoeter.**
 Accepted at *The European Conference on Information Retrieval (ECIR 2023)*.
+
 [Paper](/assets/papers/2023-ecir-cm-vs-ips.pdf)
 &nbsp;[Code](https://github.com/philipphager/ultr-cm-vs-ips)
 
