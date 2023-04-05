@@ -8,7 +8,7 @@ permalink: /publications/
 **Romain Deffayet, Philipp Hager, Jean-Michel Renders, Maarten de Rijke**
 Accepted at *The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)*.
 
-### [Contrasting Neural Click Models and Pointwise IPS Rankers]()
+### [Contrasting Neural Click Models and Pointwise IPS Rankers](/assets/papers/2023-ecir-cm-vs-ips.pdf)
 **Philipp Hager, Maarten de Rijke, Onno Zoeter**
 Published at *The European Conference on Information Retrieval (ECIR 2023)*.
 
