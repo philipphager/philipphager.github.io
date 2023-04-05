@@ -6,10 +6,15 @@ permalink: /publications/
 
 ### [Contrasting Neural Click Models and Pointwise IPS Rankers]()
 **Philipp Hager, Maarten de Rijke, Onno Zoeter.**
-Accepted at *The European Conference on Information Retrieval (ECIR 2023)*.
+Accepted at *The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)*.
+
+### [Contrasting Neural Click Models and Pointwise IPS Rankers]()
+**Philipp Hager, Maarten de Rijke, Onno Zoeter.**
+Published at *The European Conference on Information Retrieval (ECIR 2023)*.
 
 [Paper](/assets/papers/2023-ecir-cm-vs-ips.pdf)
 &nbsp;[Code](https://github.com/philipphager/ultr-cm-vs-ips)
+&nbsp;[Slides](/assets/slides/2023-ecir-cm-vs-ips.pdf)
 
 
 ### [Are Neural Click Models Pointwise IPS Rankers?](/assets/papers/2022-cm-vs-ips.pdf)
