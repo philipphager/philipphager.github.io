@@ -12,6 +12,9 @@ Tutorial accepted at *The International ACM SIGIR Conference on Research and Dev
 **Romain Deffayet, Philipp Hager, Jean-Michel Renders, Maarten de Rijke**\
 Accepted at *The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)*.
 
+[Paper](/assets/papers/)
+&nbsp;[Code](https://github.com/philipphager/sigir-cmip)
+
 ### [Contrasting Neural Click Models and Pointwise IPS Rankers](/assets/papers/2023-ecir-cm-vs-ips.pdf)
 **Philipp Hager, Maarten de Rijke, Onno Zoeter**\
 Published at *The European Conference on Information Retrieval (ECIR 2023)*.
