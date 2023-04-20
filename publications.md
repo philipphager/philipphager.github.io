@@ -10,12 +10,14 @@ Tutorial accepted at *The International ACM SIGIR Conference on Research and Dev
 
 [Paper](/assets/tutorials/sigir-2023-ultr.pdf)
 
-### [An Offline Metric for the Debiasedness of Click Models]()
+
+### [An Offline Metric for the Debiasedness of Click Models](/assets/papers/2023-sigir-debiasedness.pdf)
 **Romain Deffayet, Philipp Hager, Jean-Michel Renders, Maarten de Rijke**\
 Accepted at *The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)*.
 
 [Paper](/assets/papers/2023-sigir-debiasedness.pdf)
 &nbsp;[Code](https://github.com/philipphager/sigir-cmip)
+
 
 ### [Contrasting Neural Click Models and Pointwise IPS Rankers](/assets/papers/2023-ecir-cm-vs-ips.pdf)
 **Philipp Hager, Maarten de Rijke, Onno Zoeter**\
@@ -36,9 +38,6 @@ Published in CONSEQUENCES+REVEAL Workshop co-located with *The ACM Conference on
 &nbsp;[Slides](/assets/slides/2022-cm-vs-ips.pdf)
 &nbsp;[Video](https://youtube.com/watch?v=N-nn1500Q-g&feature=shares&t=17166)
 
-### [Submitted] [Systematic performance variability and personalized parameter selection in collaborative filtering]()
-**Pantelis P. Analytis, Philipp Hager**
-(2022)
 
 ###  [Multifaceted Domain-Specific Document Embeddings](https://aclanthology.org/2021.naacl-demos.9/)
 **Julian Risch, Philipp Hager, Ralf Krestel**\
