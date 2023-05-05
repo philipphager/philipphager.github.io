@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-### [Recent Advances in the Foundations and Applications of Unbiased Learning to Rank]()
+### [Recent Advances in the Foundations and Applications of Unbiased Learning to Rank](https://sites.google.com/view/sigir-2023-tutorial-ultr)
 **Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis**\
 Tutorial accepted at *The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)*.
 
