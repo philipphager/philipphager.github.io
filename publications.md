@@ -9,7 +9,7 @@ permalink: /publications/
 Tutorial accepted at *The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)*.
 
 [Website](https://sites.google.com/view/sigir-2023-tutorial-ultr)
-&nbsp;[Paper](/assets/tutorials/sigir-2023-ultr.pdf)
+&nbsp;[Paper](/assets/tutorials/2023-sigir-ultr-tutorial.pdf)
 
 
 ### [An Offline Metric for the Debiasedness of Click Models](/assets/papers/2023-sigir-debiasedness.pdf)
