@@ -18,6 +18,7 @@ Accepted at *The International ACM SIGIR Conference on Research and Development 
 
 [Paper](/assets/papers/2023-sigir-debiasedness.pdf)
 &nbsp;[Code](https://github.com/philipphager/sigir-cmip)
+&nbsp;[Poster](/assets/posters/2023-sigir-debiasedness.pdf)
 
 
 ### [Contrasting Neural Click Models and Pointwise IPS Rankers](/assets/papers/2023-ecir-cm-vs-ips.pdf)
