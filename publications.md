@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+### [Collaborative filtering algorithms are prone to mainstream-taste bias]()
+**Pantelis Analytis, Philipp Hager**\
+Short paper accepted at *The ACM Conference on Recommender Systems (RecSys 2023)*.
+
+
 ### [Recent Advances in the Foundations and Applications of Unbiased Learning to Rank](https://sites.google.com/view/sigir-2023-tutorial-ultr)
 **Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis**\
 Tutorial accepted at *The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)*.
