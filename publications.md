@@ -37,7 +37,7 @@ Published at *The European Conference on Information Retrieval (ECIR 2023)*.
 
 ### [Are Neural Click Models Pointwise IPS Rankers?](/assets/papers/2022-cm-vs-ips.pdf)
 **Philipp Hager, Maarten de Rijke, Onno Zoeter**\
-Published in CONSEQUENCES+REVEAL Workshop co-located with *The ACM Conference on Recommender Systems (RecSys 2022)*.
+Published at the CONSEQUENCES+REVEAL Workshop co-located with *The ACM Conference on Recommender Systems (RecSys 2022)*.
 
 [Paper](/assets/papers/2022-cm-vs-ips.pdf)
 &nbsp;[Code](https://github.com/philipphager/ultr-cm-vs-ips)
@@ -48,9 +48,8 @@ Published in CONSEQUENCES+REVEAL Workshop co-located with *The ACM Conference on
 
 ###  [Multifaceted Domain-Specific Document Embeddings](https://aclanthology.org/2021.naacl-demos.9/)
 **Julian Risch, Philipp Hager, Ralf Krestel**\
-Demo Paper published at *The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2021)*
+Demo paper published at *The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2021)*
 
 [Paper](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/people/risch/risch2021multifaceted.pdf)
 &nbsp; [Code](https://github.com/philipphager/faceted-domain-encoder)
 &nbsp; [Video](https://www.youtube.com/watch?v=HHcsX2clEwg)
-&nbsp; [BibTeX](https://aclanthology.org/2021.naacl-demos.9.bib)
