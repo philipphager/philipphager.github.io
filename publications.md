@@ -15,6 +15,7 @@ Tutorial - *The International ACM SIGIR Conference on Research and Development i
 
 [Website](https://sites.google.com/view/sigir-2023-tutorial-ultr)
 &nbsp;[Paper](/assets/tutorials/2023-sigir-ultr-tutorial.pdf)
+&nbsp;[Slides](https://docs.google.com/presentation/d/1NdhDEn8xKPQO-J0YiF6KPKP20CiNLctF7krrGldEywY/present)
 
 
 ### [An Offline Metric for the Debiasedness of Click Models](/assets/papers/2023-sigir-debiasedness.pdf)
