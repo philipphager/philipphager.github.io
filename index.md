@@ -27,7 +27,7 @@ I'm a second year Ph.D. candidate in computer science at the University of Amste
 ---
 
 ### 🎓 Education
-**Ph.D. Candidate, [University of Southern Amsterdam](https://irlab.science.uva.nl/)** \\
+**Ph.D. Candidate, [University of Amsterdam](https://irlab.science.uva.nl/)** \\
 Since 01/2022 | Amsterdam, NL
 
 **M.Sc. IT-Systems Engineering, [University of Potsdam](https://hpi.de/en/index.html)** \\
