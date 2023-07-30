@@ -4,9 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-### [Collaborative filtering algorithms are prone to mainstream-taste bias]()
+### [Collaborative filtering algorithms are prone to mainstream-taste bias](/assets/papers/2023-recsys-mainstream-taste.pdf)
 **Pantelis Analytis, Philipp Hager**\
 Short paper - *The ACM Conference on Recommender Systems (RecSys 2023)*.
+
+[Paper](/assets/papers/2023-recsys-mainstream-taste.pdf)
+&nbsp;[Code](https://github.com/philipphager/recsys-mainstream-taste-bias)
 
 
 ### [Recent Advances in the Foundations and Applications of Unbiased Learning to Rank](https://sites.google.com/view/sigir-2023-tutorial-ultr)
