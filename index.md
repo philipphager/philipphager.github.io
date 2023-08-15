@@ -8,6 +8,7 @@ I'm a second year Ph.D. candidate in computer science at the University of Amste
 <a href="mailto:p.k.hager@uva.nl">Email</a>
 [&nbsp;Github](https://github.com/philipphager/)
 [&nbsp;LinkedIn](https://www.linkedin.com/in/philipp-hager-72a432157/)
+[&nbsp;Scholar](https://scholar.google.com/citations?user=J2foFdMAAAAJ)
 
 ---
 
