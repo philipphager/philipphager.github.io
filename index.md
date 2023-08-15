@@ -11,6 +11,18 @@ I'm a second year Ph.D. candidate in computer science at the University of Amste
 
 ---
 
+### 🎓 Education
+**Ph.D. Candidate, [University of Amsterdam](https://irlab.science.uva.nl/)** \\
+Since 01/2022 | Amsterdam, NL
+
+**M.Sc. IT-Systems Engineering, [University of Potsdam](https://hpi.de/en/index.html)** \\
+04/2017 - 07/2021 | Potsdam, DE
+
+**B.Sc. Media Informatics, [University of Applied Sciences Düsseldorf](https://hpi.de/en/index.html)** \\
+08/2013 - 04/2017 | Düsseldorf, DE
+
+---
+
 ### 💻 Work Experience
 **Research Assistant, [University of Southern Denmark](https://www.sdu.dk)** \\
 01/2021 - 01/2022 | Odense, DK
@@ -23,15 +35,3 @@ I'm a second year Ph.D. candidate in computer science at the University of Amste
 
 **Working Student Android Development, [Blinkist](https://www.blinkist.com)** \\
 09/2015 - 09/2018 (with interruptions) | Berlin, DE
-
----
-
-### 🎓 Education
-**Ph.D. Candidate, [University of Amsterdam](https://irlab.science.uva.nl/)** \\
-Since 01/2022 | Amsterdam, NL
-
-**M.Sc. IT-Systems Engineering, [University of Potsdam](https://hpi.de/en/index.html)** \\
-04/2017 - 07/2021 | Potsdam, DE
-
-**B.Sc. Media Informatics, [University of Applied Sciences Düsseldorf](https://hpi.de/en/index.html)** \\
-08/2013 - 04/2017 | Düsseldorf, DE
