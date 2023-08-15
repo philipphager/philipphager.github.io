@@ -4,8 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-#### [Collaborative filtering algorithms are prone to mainstream-taste bias](/assets/papers/2023-recsys-mainstream-taste.pdf)
-**Pantelis Analytis, Philipp Hager**\
+**[Collaborative filtering algorithms are prone to mainstream-taste bias](/assets/papers/2023-recsys-mainstream-taste.pdf)**\\
+**Pantelis Analytis, Philipp Hager**\\
 Short paper - *The ACM Conference on Recommender Systems (RecSys 2023)*.\\
 [Paper](/assets/papers/2023-recsys-mainstream-taste.pdf)
 &nbsp;[Code](https://github.com/philipphager/recsys-mainstream-taste-bias)
@@ -45,8 +45,8 @@ The CONSEQUENCES+REVEAL Workshop co-located with *The ACM Conference on Recommen
 &nbsp;[Video](https://youtube.com/watch?v=N-nn1500Q-g&feature=shares&t=17166)
 
 
-####  [Multifaceted Domain-Specific Document Embeddings](https://aclanthology.org/2021.naacl-demos.9/)
-**Julian Risch, Philipp Hager, Ralf Krestel**\#
+### [Multifaceted Domain-Specific Document Embeddings](https://aclanthology.org/2021.naacl-demos.9/)
+**Julian Risch, Philipp Hager, Ralf Krestel**\
 Demo paper - *The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2021)*\\
 [Paper](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/people/risch/risch2021multifaceted.pdf)
 &nbsp; [Code](https://github.com/philipphager/faceted-domain-encoder)
