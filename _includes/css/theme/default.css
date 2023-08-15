@@ -6,9 +6,9 @@
   Almost all color variations can be played based off the few.
 */
 :root {
-  --color-primary: #3b82f6; /* blue-400 */
-  --color-secondary: #2563eb; /* blue-600 */
-  --color-accent: #fb923c; /* orange-400 */
+  --color-primary: #14234b; /* blue-400 */
+  --color-secondary: #14234b; /* blue-600 */
+  --color-accent: #e1144b; /* orange-400 */
 
   --background-color: #fafafa; /* gray-50 */
   --background-color-alt: #f4f4f5; /* gray-100 */
