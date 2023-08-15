@@ -19,12 +19,12 @@
 }
 
 [data-theme="dark"] {
-  --color-primary: #e1144b; /* orange-400 */
-  --color-secondary: #e1144b; /* orange-500 */
-  --color-accent: #0153d6; /* blue-400 */
+  --color-primary: #fb923c; /* orange-400 */
+  --color-secondary: #f59e0b; /* orange-500 */
+  --color-accent: #3b82f6; /* blue-400 */
 
-  --background-color: #14234b; /* gray-600 */
-  --background-color-alt: #14234b; /* gray-700 */
+  --background-color: #52525b; /* gray-600 */
+  --background-color-alt: #3f3f46; /* gray-700 */
   --background-color-highlight: #27272a; /* gray-800 */
   
   --text-color: #e4e4e7; /* gray-200 */
