@@ -10,8 +10,6 @@ The ACM Conference on Recommender Systems (RecSys 2023)\\
 [Paper](/assets/papers/2023-recsys-mainstream-taste.pdf)
 &nbsp;[Code](https://github.com/philipphager/recsys-mainstream-taste-bias)
 
-<button name="button" onclick="https://philipphager.github.io/assets/papers/2023-recsys-mainstream-taste.pdf">Click me</button>
-
 
 **[Recent Advances in the Foundations and Applications of Unbiased Learning to Rank](https://sites.google.com/view/sigir-2023-tutorial-ultr)**\\
 **Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis**\\
@@ -19,6 +17,7 @@ The International ACM SIGIR Conference on Research and Development in Informatio
 [Website](https://sites.google.com/view/sigir-2023-tutorial-ultr)
 &nbsp;[Paper](/assets/tutorials/2023-sigir-ultr-tutorial.pdf)
 &nbsp;[Slides](https://docs.google.com/presentation/d/1NdhDEn8xKPQO-J0YiF6KPKP20CiNLctF7krrGldEywY/present)
+
 
 **[An Offline Metric for the Debiasedness of Click Models](/assets/papers/2023-sigir-debiasedness.pdf)**\\
 **Romain Deffayet, Philipp Hager, Jean-Michel Renders, Maarten de Rijke**\\
