@@ -5,14 +5,14 @@ permalink: /publications/
 ---
 
 ### [Collaborative filtering algorithms are prone to mainstream-taste bias](/assets/papers/2023-recsys-mainstream-taste.pdf)
-Pantelis Analytis, **Philipp Hager**\\
+**Pantelis Analytis, Philipp Hager**\\
 The ACM Conference on Recommender Systems (RecSys 2023)\\
 [Paper](/assets/papers/2023-recsys-mainstream-taste.pdf)
 &nbsp;[Code](https://github.com/philipphager/recsys-mainstream-taste-bias)
 
 
 ### [Recent Advances in the Foundations and Applications of Unbiased Learning to Rank](https://sites.google.com/view/sigir-2023-tutorial-ultr)
-Shashank Gupta, **Philipp Hager**, Jin Huang, Ali Vardasbi, Harrie Oosterhuis\\
+**Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis**\\
 The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)\\
 [Website](https://sites.google.com/view/sigir-2023-tutorial-ultr)
 &nbsp;[Paper](/assets/tutorials/2023-sigir-ultr-tutorial.pdf)
@@ -20,7 +20,7 @@ The International ACM SIGIR Conference on Research and Development in Informatio
 
 
 ### [An Offline Metric for the Debiasedness of Click Models](/assets/papers/2023-sigir-debiasedness.pdf)
-Romain Deffayet<sup>*</sup>, **Philipp Hager<sup>*</sup>**, Jean-Michel Renders, Maarten de Rijke\\
+**Romain Deffayet<sup>*</sup>, Philipp Hager<sup>*</sup>, Jean-Michel Renders, Maarten de Rijke**\\
 The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)\\
 [Paper](/assets/papers/2023-sigir-debiasedness.pdf)
 &nbsp;[Code](https://github.com/philipphager/sigir-cmip)
@@ -28,7 +28,7 @@ The International ACM SIGIR Conference on Research and Development in Informatio
 
 
 ### [Contrasting Neural Click Models and Pointwise IPS Rankers](/assets/papers/2023-ecir-cm-vs-ips.pdf)
-**Philipp Hager**, Maarten de Rijke, Onno Zoeter\\
+**Philipp Hager, Maarten de Rijke, Onno Zoeter**\\
 The European Conference on Information Retrieval (ECIR 2023)\\
 [Paper](/assets/papers/2023-ecir-cm-vs-ips.pdf)
 &nbsp;[Code](https://github.com/philipphager/ultr-cm-vs-ips)
@@ -36,7 +36,7 @@ The European Conference on Information Retrieval (ECIR 2023)\\
 
 
 ### [Are Neural Click Models Pointwise IPS Rankers?](/assets/papers/2022-cm-vs-ips.pdf)
-**Philipp Hager**, Maarten de Rijke, Onno Zoeter\\
+**Philipp Hager, Maarten de Rijke, Onno Zoeter**\\
 The CONSEQUENCES+REVEAL Workshop co-located with The ACM Conference on Recommender Systems (RecSys 2022)\\
 [Paper](/assets/papers/2022-cm-vs-ips.pdf)
 &nbsp;[Code](https://github.com/philipphager/ultr-cm-vs-ips)
@@ -46,7 +46,7 @@ The CONSEQUENCES+REVEAL Workshop co-located with The ACM Conference on Recommend
 
 
 ### [Multifaceted Domain-Specific Document Embeddings](https://aclanthology.org/2021.naacl-demos.9/)
-Julian Risch, **Philipp Hager**, Ralf Krestel\\
+**Julian Risch, Philipp Hager, Ralf Krestel**\\
 The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2021)\\
 [Paper](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/people/risch/risch2021multifaceted.pdf)
 &nbsp; [Code](https://github.com/philipphager/faceted-domain-encoder)
