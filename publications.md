@@ -20,7 +20,7 @@ The International ACM SIGIR Conference on Research and Development in Informatio
 
 
 ### [An Offline Metric for the Debiasedness of Click Models](/assets/papers/2023-sigir-debiasedness.pdf)
-Romain Deffayet<sup>*</sub>, **Philipp Hager<sup>*</sub>**, Jean-Michel Renders, Maarten de Rijke\\
+Romain Deffayet<sup>*</sup>, **Philipp Hager<sup>*</sup>**, Jean-Michel Renders, Maarten de Rijke\\
 The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)\\
 [Paper](/assets/papers/2023-sigir-debiasedness.pdf)
 &nbsp;[Code](https://github.com/philipphager/sigir-cmip)
