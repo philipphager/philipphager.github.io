@@ -4,6 +4,12 @@ title: Talks
 permalink: /talks/
 ---
 
+### 2023
+
+**[Learning to Rank]()**\\
+**Philipp Hager**\\
+Guest lecture, Information Retrieval 0, University of Amsterdam\\
+
 **[Recent Advances in the Foundations and Applications of Unbiased Learning to Rank](https://sites.google.com/view/sigir-2023-tutorial-ultr)**\\
 **Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis**\\
 The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)\\
