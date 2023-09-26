@@ -17,7 +17,7 @@ footer_custom: ""
 layout:
   theme: default # default, vintage, nord
   theme_highlighter: vs # default, more at css/highlighter (source: https://github.com/richleland/pygments-css)
-  theme_switch: true # enable or disable user toggle switch between light and dark theme
+  theme_switch: false # enable or disable user toggle switch between light and dark theme
   home_posts_no: 6
   home_postheader_title: 'Recent posts'
   home_postmeta_title: 'View all'
