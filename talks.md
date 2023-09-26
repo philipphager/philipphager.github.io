@@ -24,6 +24,6 @@ Invited talk at [Booking.com](https://booking.com/), Amsterdam\\
 
 ---
 
-### 2022
+### 2021
 **[Transformers for content-based recommendation]()**\\
 Guest lecture at the University of Southern Denmark, Odense
