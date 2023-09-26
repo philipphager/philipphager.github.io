@@ -7,8 +7,7 @@ permalink: /talks/
 ### 2023
 
 **[Learning to Rank]()**\\
-**Philipp Hager**\\
-Guest lecture, Information Retrieval 0, University of Amsterdam\\
+Guest lecture in the Search Engines course, University of Amsterdam
 
 **[Recent Advances in the Foundations and Applications of Unbiased Learning to Rank](https://sites.google.com/view/sigir-2023-tutorial-ultr)**\\
 **Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis**\\
@@ -22,3 +21,9 @@ The International ACM SIGIR Conference on Research and Development in Informatio
 **Philipp Hager, Maarten de Rijke**\\
 Invited talk at [Booking.com](https://booking.com/), Amsterdam\\
 [Slides](/assets/slides/2023-supervised-ltr-tutorial.pdf)
+
+---
+
+### 2022
+**[Transformers for content-based recommendation]()**\\
+Guest lecture at the University of Southern Denmark, Odense
