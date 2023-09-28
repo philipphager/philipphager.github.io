@@ -6,7 +6,7 @@ permalink: /talks/
 
 ### 2023
 
-**[When Metrics Break Down - On Evaluating User Models from Clicks](assets/talks/2023-sigir-ultr-tutorial.pdf)**\\
+**[When Metrics Break Down - On Evaluating User Models from Clicks](/assets/talks/2023-sigir-ultr-tutorial.pdf)**\\
 [ICAI: The Labs - Machine Learning in the service industry](https://icai.ai/event/icai-the-labs-machine-learning-in-the-service-industry/)
 
 **[Learning to Rank]()**\\
@@ -28,5 +28,5 @@ Invited talk at [Booking.com](https://booking.com/), Amsterdam\\
 ---
 
 ### 2021
-**[Using NLP for Recommendations](assets/lectures/2021-sdu-neural-embeddings.pdf)**\\
+**[Using NLP for Recommendations](/assets/lectures/2021-sdu-neural-embeddings.pdf)**\\
 Guest lecture at the University of Southern Denmark, Odense
