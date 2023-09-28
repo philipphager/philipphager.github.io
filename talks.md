@@ -6,7 +6,7 @@ permalink: /talks/
 
 ### 2023
 
-**[When Metrics Break Down - On Evaluating User Models from Clicks](/assets/talks/2023-sigir-ultr-tutorial.pdf)**\\
+**[When Metrics Break Down - On Evaluating User Models from Clicks](/assets/talks/2023-09-28-mmll-icai.pdf)**\\
 ICAI: The Labs - Machine Learning in the service industry\\
 [Website](https://icai.ai/event/icai-the-labs-machine-learning-in-the-service-industry/)
 &nbsp;[Slides](/assets/talks/2023-sigir-ultr-tutorial.pdf)
