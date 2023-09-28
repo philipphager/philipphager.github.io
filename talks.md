@@ -7,10 +7,13 @@ permalink: /talks/
 ### 2023
 
 **[When Metrics Break Down - On Evaluating User Models from Clicks](/assets/talks/2023-sigir-ultr-tutorial.pdf)**\\
-[ICAI: The Labs - Machine Learning in the service industry](https://icai.ai/event/icai-the-labs-machine-learning-in-the-service-industry/)
+ICAI: The Labs - Machine Learning in the service industry\\
+[Website](https://icai.ai/event/icai-the-labs-machine-learning-in-the-service-industry/)
+&nbsp;[Slides](/assets/talks/2023-sigir-ultr-tutorial.pdf)
 
 **[Learning to Rank]()**\\
-Guest lecture in the BSc. Search Engines course, University of Amsterdam
+Guest lecture in the BSc. Search Engines course, University of Amsterdam\\
+[Slides](/assets/lectures/2023-uva-ltr.pdf)
 
 **[Recent Advances in the Foundations and Applications of Unbiased Learning to Rank](https://sites.google.com/view/sigir-2023-tutorial-ultr)**\\
 **Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis**\\
@@ -29,4 +32,5 @@ Invited talk at [Booking.com](https://booking.com/), Amsterdam\\
 
 ### 2021
 **[NLP in Production - A Content-based Recommender System Case Study](/assets/lectures/2021-sdu-neural-embeddings.pdf)**\\
-Guest lecture at the University of Southern Denmark, Odense
+Guest lecture at the University of Southern Denmark, Odense\\
+[Slides](/assets/lectures/2021-sdu-neural-embeddings.pdf)
