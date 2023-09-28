@@ -9,9 +9,9 @@ permalink: /talks/
 **[When Metrics Break Down - On Evaluating User Models from Clicks](/assets/talks/2023-09-28-mmll-icai.pdf)**\\
 ICAI: The Labs - Machine Learning in the service industry\\
 [Website](https://icai.ai/event/icai-the-labs-machine-learning-in-the-service-industry/)
-&nbsp;[Slides](/assets/talks/2023-sigir-ultr-tutorial.pdf)
+&nbsp;[Slides](/assets/talks/2023-09-28-mmll-icai.pdf)
 
-**[Learning to Rank]()**\\
+**[Learning to Rank](/assets/lectures/2023-uva-ltr.pdf)**\\
 Guest lecture in the BSc. Search Engines course, University of Amsterdam\\
 [Slides](/assets/lectures/2023-uva-ltr.pdf)
 
