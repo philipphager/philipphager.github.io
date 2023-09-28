@@ -28,5 +28,5 @@ Invited talk at [Booking.com](https://booking.com/), Amsterdam\\
 ---
 
 ### 2021
-**[Using NLP for Recommendations](/assets/lectures/2021-sdu-neural-embeddings.pdf)**\\
+**[NLP in Production - A Content-based Recommender System Case Study](/assets/lectures/2021-sdu-neural-embeddings.pdf)**\\
 Guest lecture at the University of Southern Denmark, Odense
