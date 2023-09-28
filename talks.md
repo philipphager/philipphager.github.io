@@ -28,5 +28,5 @@ Invited talk at [Booking.com](https://booking.com/), Amsterdam\\
 ---
 
 ### 2021
-**[Using NLP for Recommendations](assets/lectures/neural_embeddings_sdu2021.pdf)**\\
+**[Using NLP for Recommendations](assets/lectures/2021-sdu-neural-embeddings.pdf)**\\
 Guest lecture at the University of Southern Denmark, Odense
