@@ -5,6 +5,10 @@ permalink: /talks/
 ---
 
 ### 2023
+**[Recent Advancements in Unbiased Learning to Rank](https://sites.google.com/view/fire-2023-ultr-tutorial/home)**\\
+**Shashank Gupta, Philipp Hager, Harrie Oosterhuis**\\
+Forum for Information Retrieval Evaluation (FIRE 2023)\\
+[Website](https://sites.google.com/view/fire-2023-ultr-tutorial/home)
 
 **[When Metrics Break Down - On Evaluating User Models from Clicks](/assets/talks/2023-09-28-mmll-icai.pdf)**\\
 ICAI: The Labs - Machine Learning in the service industry\\
