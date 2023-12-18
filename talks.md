@@ -14,6 +14,7 @@ The 17th ACM International Conference on Web Search and Data Mining (WSDM 2024)
 **Shashank Gupta, Philipp Hager, Harrie Oosterhuis**\\
 Forum for Information Retrieval Evaluation (FIRE 2023)\\
 [Website](https://sites.google.com/view/fire-2023-ultr-tutorial/home)
+&nbsp;[Slides](https://docs.google.com/presentation/d/1OWtPh7jnKyfPJL12gFTjJHUa81F-fcvDowJUadqTop4/present)
 
 **[When Metrics Break Down - On Evaluating User Models from Clicks](/assets/talks/2023-09-28-mmll-icai.pdf)**\\
 ICAI: The Labs - Machine Learning in the service industry\\
