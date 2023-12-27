@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+**[Report on the 1st Workshop on Generative Information Retrieval (Gen-IR 2023) at SIGIR 2023](https://sigir.org/wp-content/uploads/2023/12/p13.pdf)**\\
+**Gabriel Bénédict, Ruqing Zhang, Donald Metzler, Andrew Yates, Romain Deffayet, Philipp Hager, Sami Jullien**\\
+Event report in SIGIR Forum, December 2023, Volume 57 Number 2\\
+[Paper](https://sigir.org/wp-content/uploads/2023/12/p13.pdf)
+
+
 **[Collaborative filtering algorithms are prone to mainstream-taste bias](/assets/papers/2023-recsys-mainstream-taste.pdf)**\\
 **Pantelis Analytis, Philipp Hager**\\
 The ACM Conference on Recommender Systems (RecSys 2023)\\
