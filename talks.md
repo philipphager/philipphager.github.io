@@ -5,9 +5,13 @@ permalink: /talks/
 ---
 
 ### 2024
-**[Unbiased Learning to Rank: On Recent Advances and Practical Applications]()**\\
+**[Unbiased Learning to Rank:
+On Recent Advances and Practical Applications](https://sites.google.com/view/wsdm-2024-tutorial-ultr/)**\\
 **Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis**\\
-The 17th ACM International Conference on Web Search and Data Mining (WSDM 2024)
+The 17th ACM International Conference on Web Search and Data Mining (WSDM 2024)\\
+[Website](https://sites.google.com/view/wsdm-2024-tutorial-ultr/)
+&nbsp;[Paper](https://dl.acm.org/doi/pdf/10.1145/3616855.3636451)
+&nbsp;[Slides](https://drive.google.com/file/d/1-sRsFkG4juBHqqQ-ces3HRvtYHpR0l7U/view)
 
 ### 2023
 **[Recent Advancements in Unbiased Learning to Rank](https://sites.google.com/view/fire-2023-ultr-tutorial/home)**\\
