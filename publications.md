@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+**[Unbiased Learning to Rank Meets Reality: Lessons from Baidu’s Large-Scale Search Dataset]()**\\
+**Philipp Hager, Romain Deffayet, Jean-Michel Renders, Onno Zoeter, Maarten de Rijke**\\
+Accepted at the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)\\
+&nbsp;[Paper]()
+&nbsp;[Slides]()
+
 **[Unbiased Learning to Rank:
 On Recent Advances and Practical Applications](https://sites.google.com/view/wsdm-2024-tutorial-ultr/)**\\
 **Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis**\\
