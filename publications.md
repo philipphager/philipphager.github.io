@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
+## 2024
 **[Unbiased Learning to Rank Meets Reality: Lessons from Baidu’s Large-Scale Search Dataset]()**\\
 **Philipp Hager, Romain Deffayet, Jean-Michel Renders, Onno Zoeter, Maarten de Rijke**\\
 Accepted at the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)\\
@@ -18,11 +19,12 @@ The 17th ACM International Conference on Web Search and Data Mining (WSDM 2024)\
 &nbsp;[Paper](https://dl.acm.org/doi/pdf/10.1145/3616855.3636451)
 &nbsp;[Slides](https://drive.google.com/file/d/1-sRsFkG4juBHqqQ-ces3HRvtYHpR0l7U/view)
 
+
+## 2023
 **[Report on the 1st Workshop on Generative Information Retrieval (Gen-IR 2023) at SIGIR 2023](https://sigir.org/wp-content/uploads/2023/12/p13.pdf)**\\
 **Gabriel Bénédict, Ruqing Zhang, Donald Metzler, Andrew Yates, Romain Deffayet, Philipp Hager, Sami Jullien**\\
 Event report in SIGIR Forum, December 2023, Volume 57 Number 2\\
 [Paper](https://sigir.org/wp-content/uploads/2023/12/p13.pdf)
-
 
 **[Collaborative filtering algorithms are prone to mainstream-taste bias](/assets/papers/2023-recsys-mainstream-taste.pdf)**\\
 **Pantelis Analytis, Philipp Hager**\\
@@ -56,6 +58,7 @@ The European Conference on Information Retrieval (ECIR 2023)\\
 &nbsp;[Slides](/assets/slides/2023-ecir-cm-vs-ips.pdf)
 
 
+## 2022
 **[Are Neural Click Models Pointwise IPS Rankers?](/assets/papers/2022-cm-vs-ips.pdf)**\\
 **Philipp Hager, Maarten de Rijke, Onno Zoeter**\\
 The CONSEQUENCES+REVEAL Workshop co-located with The ACM Conference on Recommender Systems (RecSys 2022)\\
@@ -66,6 +69,7 @@ The CONSEQUENCES+REVEAL Workshop co-located with The ACM Conference on Recommend
 &nbsp;[Video](https://youtube.com/watch?v=N-nn1500Q-g&feature=shares&t=17166)
 
 
+## 2021
 **[Multifaceted Domain-Specific Document Embeddings](https://aclanthology.org/2021.naacl-demos.9/)**\\
 **Julian Risch, Philipp Hager, Ralf Krestel**\\
 The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2021)\\
