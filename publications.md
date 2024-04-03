@@ -5,10 +5,11 @@ permalink: /publications/
 ---
 
 ## 2024
-**[Unbiased Learning to Rank Meets Reality: Lessons from Baidu’s Large-Scale Search Dataset]()**\\
+**[Unbiased Learning to Rank Meets Reality: Lessons from Baidu’s Large-Scale Search Dataset](/assets/papers/2024-sigir-ultr-meets-reality.pdf)**\\
 **Philipp Hager, Romain Deffayet, Jean-Michel Renders, Onno Zoeter, Maarten de Rijke**\\
 Accepted at the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)\\
-&nbsp;[Paper]()
+&nbsp;[Paper](/assets/papers/2024-sigir-ultr-meets-reality.pdf)
+&nbsp;[Code](https://github.com/philipphager/ultr-reproducibility)
 &nbsp;[Slides]()
 
 **[Unbiased Learning to Rank:
