@@ -5,6 +5,12 @@ permalink: /talks/
 ---
 
 ### 2024
+**[Improvements That Add Up: An opinionated rant on reproducibility and progress in IR](/assets/talks/2024-07-02-essir24-reproducibility.pdf)**\\
+**Philipp Hager**\\
+Guest lecture at the 15th European Summer School on Information Retrieval (ESSIR 2024)\\
+[Website](https://2024.essir.eu/speakers)
+&nbsp;[Slides](/assets/talks/2024-07-02-essir24-reproducibility.pdf)
+
 **[Unbiased Learning to Rank:
 On Recent Advances and Practical Applications](https://sites.google.com/view/wsdm-2024-tutorial-ultr/)**\\
 **Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis**\\
