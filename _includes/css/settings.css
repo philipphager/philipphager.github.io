@@ -6,7 +6,7 @@
 
   /* an ideal reading width - 48rem - 768px based off 16px:1rem */
   /* remember to set this to media-queries too if you are not handling it separately */
-  --body-width: 60rem;
+  --body-width: 64rem;
 
   /* default: minor third scale progression */
   --typescale-body: 1.2;
