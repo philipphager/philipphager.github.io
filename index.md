@@ -18,4 +18,4 @@ Unbiased learning-to-rank, click modeling, off-policy learning, offline evaluati
 
 <!-- {% include_relative _includes/services.md %} -->
 
-Profile picture by [Pooya Khandel](https://www.pooyakhandel.com/).
+Profile picture by [Pooya Khandel](https://www.pooyakhandel.com/) and theme by [Yaoyao Liu](https://github.com/yaoyao-liu/minimal-light?tab=readme-ov-file).
