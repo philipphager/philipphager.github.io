@@ -7,4 +7,4 @@ main:
     slides: ./assets/talks/2024-07-02-essir24-reproducibility.pdf
     website: https://2024.essir.eu/speakers
     bibtex: 
-    image: ./assets/teasers/essir-24
+    image: ./assets/teasers/essir-24.png
