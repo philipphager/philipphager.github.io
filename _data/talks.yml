@@ -21,8 +21,8 @@ main:
 
   - title: "When Metrics Break Down - On Evaluating User Models from Clicks"
     authors: Philipp Hager
-    conference_short: ICAI
-    conference: "ICAI: The Labs - Machine Learning in the service industry"
+    conference_short: ICAI 2023
+    conference: "ICAI: The Labs - Machine Learning in the service industry 2023"
     slides: /assets/talks/2023-09-28-mmll-icai.pdf
     website: https://icai.ai/event/icai-the-labs-machine-learning-in-the-service-industry/
     bibtex: 
