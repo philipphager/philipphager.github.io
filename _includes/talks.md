@@ -1,9 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected talks</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.talks.main %}
 
 <li>
 <div class="pub-row">

@@ -1,0 +1,11 @@
+main:
+
+  - title: "Unbiased Learning to Rank Meets Reality: Lessons from Baidu’s Large-Scale Search Dataset"
+    authors: <strong>Philipp Hager, Romain Deffayet</strong>, Jean-Michel Renders, Onno Zoeter, Maarten de Rijke
+    conference_short: SIGIR 2024
+    conference: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
+    pdf: https://arxiv.org/pdf/2404.02543
+    code: https://github.com/philipphager/ultr-reproducibility
+    bibtex: 
+    image: ./assets/teasers/sigir-2024.png
+    notes: 

@@ -14,5 +14,6 @@ Hey there 👋, I'm a third year Ph.D. candidate in computer science at the Univ
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/talks.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
