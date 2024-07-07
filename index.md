@@ -8,8 +8,7 @@ Hey there 👋, I'm a third year Ph.D. candidate in computer science at the Univ
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Unbiased learning-to-rank, click modeling, off-policy learning, offline evaluation
 
 ## News
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
