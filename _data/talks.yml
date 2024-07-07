@@ -7,7 +7,7 @@ main:
     slides: ./assets/talks/2024-07-02-essir24-reproducibility.pdf
     website: https://2024.essir.eu/speakers
     bibtex: 
-    image: ./assets/teasers/essir-2024.png
+    image: ./assets/teasers/essir-2024.jpeg
 
   - title: "Unbiased Learning to Rank: On Recent Advances and Practical Applications"
     authors: Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis
@@ -17,7 +17,7 @@ main:
     paper: https://dl.acm.org/doi/pdf/10.1145/3616855.3636451
     website: https://sites.google.com/view/wsdm-2024-tutorial-ultr/
     bibtex: https://dl.acm.org/doi/10.1145/3616855.3636451
-    image: ./assets/teasers/wsdm-2024.png
+    image: ./assets/teasers/wsdm-2024.jpeg
 
   - title: "When Metrics Break Down - On Evaluating User Models from Clicks"
     authors: Philipp Hager
@@ -26,7 +26,7 @@ main:
     slides: /assets/talks/2023-09-28-mmll-icai.pdf
     website: https://icai.ai/event/icai-the-labs-machine-learning-in-the-service-industry/
     bibtex: 
-    image: ./assets/teasers/icai-2023.png
+    image: ./assets/teasers/icai-2023.jpeg
 
   - title: "Recent Advances in the Foundations and Applications of Unbiased Learning to Rank"
     authors: Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis
@@ -36,4 +36,4 @@ main:
     website: https://sites.google.com/view/sigir-2023-tutorial-ultr
     paper: ./assets/tutorials/2023-sigir-ultr-tutorial.pdf
     bibtex: https://dl.acm.org/doi/abs/10.1145/3539618.3594247
-    image: ./assets/teasers/sigir-tutorial-2023.png
+    image: ./assets/teasers/sigir-tutorial-2023.jpeg
