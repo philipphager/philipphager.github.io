@@ -17,7 +17,7 @@ main:
     pdf: https://arxiv.org/pdf/2304.09560
     code: https://github.com/philipphager/sigir-cmip
     poster: ./assets/posters/2023-sigir-debiasedness.pdf
-    bibtex: 
+    bibtex: https://dl.acm.org/doi/abs/10.1145/3539618.3591639
     image: ./assets/teasers/sigir-2023.png
     notes: 
 
@@ -28,7 +28,7 @@ main:
     pdf: ./assets/papers/2023-recsys-mainstream-taste.pdf
     code: https://github.com/philipphager/recsys-mainstream-taste-bias
     poster: ./assets/posters/2023-recsys-mainstream-taste.pdf
-    bibtex: 
+    bibtex: https://dl.acm.org/doi/abs/10.1145/3604915.3608825
     image: ./assets/teasers/recsys-2023.png
     notes:
 
@@ -39,6 +39,6 @@ main:
     pdf: ./assets/papers/2023-sigir-debiasedness.pdf
     code: https://github.com/philipphager/ultr-cm-vs-ips
     poster: ./assets/posters/2022-cm-vs-ips.pdf
-    bibtex: 
+    bibtex: https://dl.acm.org/doi/10.1007/978-3-031-28244-7_26#
     image: ./assets/teasers/ecir-2023.png
     notes: 
