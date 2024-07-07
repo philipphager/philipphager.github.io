@@ -21,11 +21,11 @@
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
-      {% if link.website %} 
-      <a href="{{ link.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      {% endif %}
       {% if link.slides %} 
       <a href="{{ link.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      {% endif %}
+      {% if link.website %} 
+      <a href="{{ link.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       {% endif %}
       {% if link.paper %} 
       <a href="{{ link.paper }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
