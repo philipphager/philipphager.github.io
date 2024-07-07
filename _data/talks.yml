@@ -31,7 +31,7 @@ main:
   - title: "Recent Advances in the Foundations and Applications of Unbiased Learning to Rank"
     authors: Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis
     conference_short: SIGIR 2023
-    conference: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023).
+    conference: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)
     slides: https://docs.google.com/presentation/d/1NdhDEn8xKPQO-J0YiF6KPKP20CiNLctF7krrGldEywY/present
     website: https://sites.google.com/view/sigir-2023-tutorial-ultr
     paper: ./assets/tutorials/2023-sigir-ultr-tutorial.pdf
