@@ -7,4 +7,15 @@ main:
     slides: ./assets/talks/2024-07-02-essir24-reproducibility.pdf
     website: https://2024.essir.eu/speakers
     bibtex: 
-    image: ./assets/teasers/essir-24.png
+    image: ./assets/teasers/essir-2024.png
+
+  - title: "Unbiased Learning to Rank:
+On Recent Advances and Practical Applications"
+    authors: Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis
+    conference_short: WSDM 2024
+    conference: The ACM International Conference on Web Search and Data Mining (WSDM 2024)
+    slides: https://drive.google.com/file/d/1-sRsFkG4juBHqqQ-ces3HRvtYHpR0l7U/view
+    paper: https://dl.acm.org/doi/pdf/10.1145/3616855.3636451
+    website: https://sites.google.com/view/wsdm-2024-tutorial-ultr/
+    bibtex: 
+    image: ./assets/teasers/wsdm-2024.png
