@@ -17,3 +17,5 @@ Unbiased learning-to-rank, click modeling, off-policy learning, offline evaluati
 {% include_relative _includes/talks.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
+
+Profile picture by [Pooya Khandel](https://www.pooyakhandel.com/).
