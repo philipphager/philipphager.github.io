@@ -8,4 +8,14 @@ main:
     code: https://github.com/philipphager/ultr-reproducibility
     bibtex: 
     image: ./assets/teasers/sigir-2024.png
-    notes: Oral Presentation
+    notes: 
+
+  - title: "An Offline Metric for the Debiasedness of Click Models"
+    authors: <strong>Romain Deffayet, Philipp Hager</strong>, Jean-Michel Renders, Maarten de Rijke
+    conference_short: SIGIR 2023
+    conference: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023).
+    pdf: https://arxiv.org/pdf/2304.09560
+    code: https://github.com/philipphager/sigir-cmip
+    bibtex: 
+    image: ./assets/teasers/sigir-2023.png
+    notes: 
