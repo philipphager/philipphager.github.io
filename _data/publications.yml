@@ -16,9 +16,21 @@ main:
     conference: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023).
     pdf: https://arxiv.org/pdf/2304.09560
     code: https://github.com/philipphager/sigir-cmip
+    poster: ./assets/posters/2023-sigir-debiasedness.pdf
     bibtex: 
     image: ./assets/teasers/sigir-2023.png
     notes: 
+
+  - title: "Collaborative filtering algorithms are prone to mainstream-taste bias"
+    authors: <strong>Pantelis Analytis, Philipp Hager</strong>
+    conference_short: RecSys 2023
+    conference: The ACM Conference on Recommender Systems (RecSys 2023)
+    pdf: 
+    code: https://github.com/philipphager/recsys-mainstream-taste-bias
+    poster: ./assets/posters/2023-recsys-mainstream-taste.pdf
+    bibtex: 
+    image: ./assets/teasers/recsys-2023.png
+    notes:
 
   - title: "Contrasting Neural Click Models and Pointwise IPS Rankers"
     authors: <strong>Philipp Hager</strong>, Maarten de Rijke, Onno Zoeter
@@ -26,7 +38,7 @@ main:
     conference: The European Conference on Information Retrieval (ECIR 2023)
     pdf: https://irlab.science.uva.nl/wp-content/papercite-data/pdf/hager-2023-contrasting.pdf
     code: https://github.com/philipphager/ultr-cm-vs-ips
+    poster: ./assets/posters/2022-cm-vs-ips.pdf
     bibtex: 
     image: ./assets/teasers/ecir-2023.png
     notes: 
-
