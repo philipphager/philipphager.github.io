@@ -16,7 +16,7 @@ main:
     slides: https://drive.google.com/file/d/1-sRsFkG4juBHqqQ-ces3HRvtYHpR0l7U/view
     paper: https://dl.acm.org/doi/pdf/10.1145/3616855.3636451
     website: https://sites.google.com/view/wsdm-2024-tutorial-ultr/
-    bibtex: 
+    bibtex: https://dl.acm.org/doi/10.1145/3616855.3636451
     image: ./assets/teasers/wsdm-2024.png
 
   - title: "When Metrics Break Down - On Evaluating User Models from Clicks"
@@ -35,5 +35,5 @@ main:
     slides: https://docs.google.com/presentation/d/1NdhDEn8xKPQO-J0YiF6KPKP20CiNLctF7krrGldEywY/present
     website: https://sites.google.com/view/sigir-2023-tutorial-ultr
     paper: ./assets/tutorials/2023-sigir-ultr-tutorial.pdf
-    bibtex: 
+    bibtex: https://dl.acm.org/doi/abs/10.1145/3539618.3594247
     image: ./assets/teasers/sigir-tutorial-2023.png
