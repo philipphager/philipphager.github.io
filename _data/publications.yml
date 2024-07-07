@@ -20,7 +20,7 @@ main:
     image: ./assets/teasers/sigir-2023.png
     notes: 
 
-- title: "Contrasting Neural Click Models and Pointwise IPS Rankers"
+  - title: "Contrasting Neural Click Models and Pointwise IPS Rankers"
     authors: <strong>Philipp Hager</strong>, Maarten de Rijke, Onno Zoeter
     conference_short: ECIR 2023
     conference: The European Conference on Information Retrieval (ECIR 2023)
