@@ -3,7 +3,7 @@ main:
   - title: "Unbiased Learning to Rank Meets Reality: Lessons from Baidu’s Large-Scale Search Dataset"
     authors: <strong>Philipp Hager, Romain Deffayet</strong>, Jean-Michel Renders, Onno Zoeter, Maarten de Rijke
     conference_short: SIGIR 2024
-    conference: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
+    conference: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)
     pdf: https://arxiv.org/pdf/2404.02543
     code: https://github.com/philipphager/ultr-reproducibility
     bibtex: 
@@ -13,7 +13,7 @@ main:
   - title: "An Offline Metric for the Debiasedness of Click Models"
     authors: <strong>Romain Deffayet, Philipp Hager</strong>, Jean-Michel Renders, Maarten de Rijke
     conference_short: SIGIR 2023
-    conference: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023).
+    conference: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)
     pdf: https://arxiv.org/pdf/2304.09560
     code: https://github.com/philipphager/sigir-cmip
     poster: ./assets/posters/2023-sigir-debiasedness.pdf
