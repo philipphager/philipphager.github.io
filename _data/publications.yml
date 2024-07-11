@@ -36,7 +36,7 @@ main:
     authors: <strong>Philipp Hager</strong>, Maarten de Rijke, Onno Zoeter
     conference_short: ECIR 2023
     conference: The European Conference on Information Retrieval (ECIR 2023)
-    pdf: ./assets/papers/2023-sigir-debiasedness.pdf
+    pdf: ./assets/papers/2023-ecir-cm-vs-ips.pdf
     code: https://github.com/philipphager/ultr-cm-vs-ips
     poster: ./assets/posters/2022-cm-vs-ips.pdf
     bibtex: https://dl.acm.org/doi/10.1007/978-3-031-28244-7_26#
