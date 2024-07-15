@@ -6,6 +6,7 @@ main:
     conference: International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024)
     pdf: https://arxiv.org/pdf/2404.02543
     code: https://github.com/philipphager/ultr-reproducibility
+    slides: ./assets/slides/2024-sigir-baidu-ultr.pdf
     bibtex: https://dl.acm.org/doi/10.1145/3626772.3657892
     image: ./assets/teasers/sigir-2024.jpeg
     notes: 
