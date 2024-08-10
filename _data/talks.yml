@@ -8,6 +8,7 @@ main:
     website: https://2024.essir.eu/speakers
     bibtex: 
     image: ./assets/teasers/essir-2024.jpeg
+    video: https://www.youtube.com/watch?v=u83lpBzClBA
 
   - title: "Unbiased Learning to Rank: On Recent Advances and Practical Applications"
     authors: Shashank Gupta, Philipp Hager, Jin Huang, Ali Vardasbi, Harrie Oosterhuis
