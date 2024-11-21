@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hey there 👋, I'm a third year Ph.D. candidate in computer science at the University of Amsterdam, supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Onno Zoeter](https://dl.acm.org/profile/81315492758). I'm part of the [Mercury Machine Learning Lab](https://icai.ai/mercury-machine-learning-lab/), a collaboration between the TU Delft, University of Amsterdam, and Booking.com.
+Hey there 👋, I'm an [ELLIS](https://ellis.eu/) Industry PhD student at the University of Amsterdam, supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Onno Zoeter](https://dl.acm.org/profile/81315492758). I'm part of the [Mercury Machine Learning Lab](https://icai.ai/mercury-machine-learning-lab/), a collaboration between the TU Delft, University of Amsterdam, and Booking.com.
 
 ## Research Interests
 Unbiased learning-to-rank, click modeling, off-policy learning, offline evaluation
