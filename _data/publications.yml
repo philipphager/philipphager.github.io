@@ -1,5 +1,17 @@
 main:
 
+   - title: "Unidentified and Confounded? Understanding Two-Tower Models for Unbiased Learning to Rank"
+    authors: <strong>Philipp Hager</strong>, Onno Zoeter, Maarten de Rijke
+    conference_short: ICTIR 2025
+    conference: International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR 2025)
+    pdf: 
+    code: 
+    slides: 
+    bibtex: 
+    image: ./assets/teasers/ictir-2025.jpeg
+    video: 
+    notes: 
+
   - title: "Unbiased Learning to Rank Meets Reality: Lessons from Baidu’s Large-Scale Search Dataset"
     authors: <strong>Philipp Hager, Romain Deffayet</strong>, Jean-Michel Renders, Onno Zoeter, Maarten de Rijke
     conference_short: SIGIR 2024
