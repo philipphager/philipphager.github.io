@@ -4,8 +4,8 @@ main:
     authors: <strong>Philipp Hager</strong>, Onno Zoeter, Maarten de Rijke
     conference_short: ICTIR 2025
     conference: International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR 2025)
-    pdf: 
-    code: 
+    pdf: ./assets/papers/2025-ictir-two-towers.pdf
+    code: https://github.com/philipphager/two-tower-confounding
     slides: 
     bibtex: 
     image: ./assets/teasers/ictir-2025.jpeg
