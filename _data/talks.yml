@@ -1,4 +1,13 @@
 main:
+  - title: "A Practical Guide to Reproducible ML Research"
+    authors: Philipp Hager
+    conference_short: ICAI 2025
+    conference: ICAI Summer School 2025
+    slides: ./assets/talks/2025-07-01-icai25-reproducibility.pdf
+    website: https://www.icai.ai/event/icai-summerschool---june-30-july-1
+    bibtex: 
+    image: ./assets/teasers/icai-2025.jpeg
+    video: 
 
   - title: "Improvements That Add Up: An opinionated rant on reproducibility and progress in IR"
     authors: Philipp Hager
