@@ -6,6 +6,7 @@ main:
     conference: International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR 2025)
     pdf: ./assets/papers/2025-ictir-two-towers.pdf
     code: https://github.com/philipphager/two-tower-confounding
+    poster: ./assets/posters/2025-ictir-two-towers.pdf
     slides: 
     bibtex: 
     image: ./assets/teasers/ictir-2025.jpeg
