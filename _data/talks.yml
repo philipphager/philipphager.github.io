@@ -1,4 +1,14 @@
 main:
+  - title: "Taming Hydra"
+    authors: Philipp Hager
+    conference_short: Tutorial
+    conference: IRLab Amsterdam
+    slides: ./assets/talks/2025-10-07-hydra-tutorial.pdf
+    website: 
+    bibtex: 
+    image: ./assets/teasers/2025-hydra-tutorial.jpeg
+    video: 
+
   - title: "A Practical Guide to Reproducible ML Research"
     authors: Philipp Hager
     conference_short: ICAI 2025
