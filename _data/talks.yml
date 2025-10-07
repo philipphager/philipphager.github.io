@@ -2,7 +2,7 @@ main:
   - title: "Taming Hydra"
     authors: Philipp Hager
     conference_short: Tutorial
-    conference: IRLab Amsterdam
+    conference: Soos talk at IRLab, University of Amsterdam
     slides: ./assets/talks/2025-10-07-hydra-tutorial.pdf
     website: 
     bibtex: 
