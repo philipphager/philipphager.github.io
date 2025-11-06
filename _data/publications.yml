@@ -1,5 +1,18 @@
 main:
 
+  - title: "CLAX: Fast and Flexible Neural Click Models in JAX"
+    authors: <strong>Philipp Hager</strong>, Onno Zoeter, Maarten de Rijke
+    conference_short: ArXiv 2025
+    conference: Preprint
+    pdf: ./assets/papers/2025-clax.pdf
+    code: https://github.com/philipphager/clax
+    poster: 
+    slides: 
+    bibtex: 
+    image: ./assets/teasers/clax-2025.jpeg
+    video: 
+    notes: 
+
   - title: "Unidentified and Confounded? Understanding Two-Tower Models for Unbiased Learning to Rank"
     authors: <strong>Philipp Hager</strong>, Onno Zoeter, Maarten de Rijke
     conference_short: ICTIR 2025
