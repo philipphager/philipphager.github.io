@@ -4,7 +4,7 @@ main:
     authors: <strong>Philipp Hager</strong>, Onno Zoeter, Maarten de Rijke
     conference_short: ArXiv 2025
     conference: Preprint
-    pdf: ./assets/papers/2025-clax.pdf
+    pdf: https://arxiv.org/pdf/2511.03620
     code: https://github.com/philipphager/clax
     poster: 
     slides: 
