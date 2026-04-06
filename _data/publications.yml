@@ -2,8 +2,8 @@ main:
 
   - title: "CLAX: Fast and Flexible Neural Click Models in JAX"
     authors: <strong>Philipp Hager</strong>, Onno Zoeter, Maarten de Rijke
-    conference_short: ArXiv 2025
-    conference: Preprint
+    conference_short: SIGIR 2026
+    conference: Accepted at the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026)
     pdf: https://arxiv.org/pdf/2511.03620
     code: https://github.com/philipphager/clax
     poster: 
