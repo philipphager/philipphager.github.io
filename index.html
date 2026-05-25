@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Philipp Hager — Machine Learning Scientist at Booking.com. Research in unbiased learning to rank, click modeling, and offline evaluation.">
+  <meta name="keywords" content="unbiased learning to rank, click models, learning-to-rank, offline evaluation, machine learning">
+  <title>Philipp Hager</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+
+  <script>
+    (function () {
+      var saved = localStorage.getItem('theme');
+      var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      var theme = saved || (prefersDark ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', theme);
+    })();
+  </script>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════
+     NAV
+══════════════════════════════════════════════ -->
+<nav>
+  <div class="nav-inner">
+    <a class="nav-name" href="#">Philipp Hager</a>
+    <div class="nav-right">
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#publications">Publications</a></li>
+        <li><a href="#talks">Talks</a></li>
+      </ul>
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode" title="Toggle theme">
+        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="4"/>
+          <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
+        </svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+</nav>
+
+
+<!-- ══════════════════════════════════════════════
+     HERO
+══════════════════════════════════════════════ -->
+<div class="wrap">
+  <div class="hero">
+
+    <div class="hero-text">
+      <h1 class="hero-name fade fade-2">Philipp Hager</h1>
+      <p class="hero-eyebrow fade fade-1">Sr. Machine Learning Scientist</p>
+      <p class="hero-position fade fade-3">
+        <strong>Booking.com</strong> - Amsterdam<br>
+        Ph.D. - IRLab, University of Amsterdam
+      </p>
+      <div class="hero-buttons fade fade-4">
+
+        <a class="btn" href="https://scholar.google.com/citations?user=J2foFdMAAAAJ" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg>
+          Scholar
+        </a>
+
+        <a class="btn" href="https://github.com/philipphager" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 .3a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2c-3.3.7-4-1.6-4-1.6-.6-1.4-1.4-1.8-1.4-1.8-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-5.9 0-1.3.5-2.4 1.2-3.2 0-.4-.5-1.6.2-3.2 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.7 1.6.2 2.8.1 3.2.8.8 1.2 1.9 1.2 3.2 0 4.6-2.8 5.6-5.5 5.9.5.4.9 1.2.9 2.3v3.3c0 .3.2.7.8.6A12 12 0 0 0 12 .3"/></svg>
+          GitHub
+        </a>
+
+        <a class="btn" href="https://www.linkedin.com/in/philipp-hager-72a432157/" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.13 1.45-2.13 2.94v5.67H9.35V9h3.41v1.56h.05a3.74 3.74 0 0 1 3.37-1.85c3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.07 2.07 0 1 1 0-4.14 2.07 2.07 0 0 1 0 4.14zM7.12 20.45H3.55V9h3.57v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.8 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg>
+          LinkedIn
+        </a>
+
+        <a class="btn" href="assets/files/philipp_hager_cv.pdf" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm-1 1.5L18.5 9H13V3.5zM6 20V4h5v7h7v9H6z"/></svg>
+          CV
+        </a>
+
+      </div>
+    </div>
+
+    <img
+      class="hero-photo fade fade-2"
+      src="https://philipphager.github.io/assets/img/avatar.jpg"
+      alt="Philipp Hager"
+    >
+
+  </div>
+</div><!-- /wrap -->
+
+
+<div class="wrap">
+  <section id="about">
+    <div class="about-body">
+      <p>
+        Hey there! I'm a Senior Machine Learning Scientist at <a href="https://booking.com" target="_blank" rel="noopener">Booking.com</a> and
+        a recent Ph.D. graduate from the <a href="https://irlab.science.uva.nl/" target="_blank" rel="noopener">IRLab</a> at
+        the University of Amsterdam, where I was supervised by
+        <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank" rel="noopener">Maarten de Rijke</a> and
+        <a href="https://dl.acm.org/profile/81315492758" target="_blank" rel="noopener">Onno Zoeter</a>.
+        I was an <a href="https://ellis.eu/" target="_blank" rel="noopener">ELLIS</a> Industry PhD fellow and
+        part of the <a href="https://icai.ai/mercury-machine-learning-lab/" target="_blank" rel="noopener">Mercury Machine Learning Lab</a>,
+        a collaboration between TU Delft, the University of Amsterdam, and Booking.com.
+      </p>
+      <p>
+        My Ph.D. focused on training ranking systems from implicit user feedback, and in my new role at Booking.com, I work bidding optimization and auction modeling in performance marketing.
+      </p>
+    </div>
+  </section>
+</div>
+
+
+<!-- ══════════════════════════════════════════════
+     PUBLICATIONS
+══════════════════════════════════════════════ -->
+<div class="wrap">
+  <section id="publications">
+    <div class="sec-head">
+      <h2>Selected Publications</h2>
+    </div>
+    <div class="item-list">
+
+      <!-- ── SIGIR 2026 ── -->
+      <div class="item">
+        <img class="item-thumb" src="https://philipphager.github.io/assets/teasers/clax-2025.jpeg" alt="CLAX paper teaser">
+        <div>
+          <span class="item-venue">SIGIR 2026</span>
+          <div class="item-title">
+            <a href="https://arxiv.org/pdf/2511.03620" target="_blank" rel="noopener">
+              CLAX: Fast and Flexible Neural Click Models in JAX
+            </a>
+          </div>
+          <div class="item-authors"><strong>Philipp Hager</strong>, Onno Zoeter, Maarten de Rijke</div>
+          <div class="item-venue-full">International ACM SIGIR Conference on Research and Development in Information Retrieval</div>
+          <div class="item-links">
+            <a class="lnk" href="https://arxiv.org/pdf/2511.03620" target="_blank" rel="noopener">PDF</a>
+            <a class="lnk" href="https://github.com/philipphager/clax" target="_blank" rel="noopener">Code</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── ICTIR 2025 ── -->
+      <div class="item">
+        <img class="item-thumb" src="https://philipphager.github.io/assets/teasers/ictir-2025.jpeg" alt="ICTIR 2025 paper teaser">
+        <div>
+          <span class="item-venue">ICTIR 2025</span>
+          <div class="item-title">
+            <a href="https://philipphager.github.io/assets/papers/2025-ictir-two-towers.pdf" target="_blank" rel="noopener">
+              Unidentified and Confounded? Understanding Two-Tower Models for Unbiased Learning to Rank
+            </a>
+          </div>
+          <div class="item-authors"><strong>Philipp Hager</strong>, Onno Zoeter, Maarten de Rijke</div>
+          <div class="item-venue-full">International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval</div>
+          <div class="item-links">
+            <a class="lnk" href="https://philipphager.github.io/assets/papers/2025-ictir-two-towers.pdf" target="_blank" rel="noopener">PDF</a>
+            <a class="lnk" href="https://github.com/philipphager/two-tower-confounding" target="_blank" rel="noopener">Code</a>
+            <a class="lnk" href="https://philipphager.github.io/assets/posters/2025-ictir-two-towers.pdf" target="_blank" rel="noopener">Poster</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── SIGIR 2024 ── -->
+      <div class="item">
+        <img class="item-thumb" src="https://philipphager.github.io/assets/teasers/sigir-2024.jpeg" alt="SIGIR 2024 paper teaser">
+        <div>
+          <span class="item-venue">SIGIR 2024</span>
+          <div class="item-title">
+            <a href="https://arxiv.org/pdf/2404.02543" target="_blank" rel="noopener">
+              Unbiased Learning to Rank Meets Reality: Lessons from Baidu's Large-Scale Search Dataset
+            </a>
+          </div>
+          <div class="item-authors"><strong>Philipp Hager</strong>, Romain Deffayet, Jean-Michel Renders, Onno Zoeter, Maarten de Rijke</div>
+          <div class="item-venue-full">International ACM SIGIR Conference on Research and Development in Information Retrieval</div>
+          <div class="item-links">
+            <a class="lnk" href="https://arxiv.org/pdf/2404.02543" target="_blank" rel="noopener">PDF</a>
+            <a class="lnk" href="https://github.com/philipphager/ultr-reproducibility" target="_blank" rel="noopener">Code</a>
+            <a class="lnk" href="https://philipphager.github.io/assets/slides/2024-sigir-baidu-ultr.pdf" target="_blank" rel="noopener">Slides</a>
+            <a class="lnk" href="https://www.youtube.com/watch?v=-1dDzx9od7g" target="_blank" rel="noopener">Video</a>
+            <a class="lnk" href="https://dl.acm.org/doi/10.1145/3626772.3657892" target="_blank" rel="noopener">BibTeX</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── RecSys 2023 ── -->
+      <div class="item">
+        <img class="item-thumb" src="https://philipphager.github.io/assets/teasers/recsys-2023.jpeg" alt="RecSys 2023 paper teaser">
+        <div>
+          <span class="item-venue">RecSys 2023</span>
+          <div class="item-title">
+            <a href="https://philipphager.github.io/assets/papers/2023-recsys-mainstream-taste.pdf" target="_blank" rel="noopener">
+              Collaborative Filtering Algorithms Are Prone to Mainstream-Taste Bias
+            </a>
+          </div>
+          <div class="item-authors">Pantelis Analytis, <strong>Philipp Hager</strong></div>
+          <div class="item-venue-full">ACM Conference on Recommender Systems</div>
+          <div class="item-links">
+            <a class="lnk" href="https://philipphager.github.io/assets/papers/2023-recsys-mainstream-taste.pdf" target="_blank" rel="noopener">PDF</a>
+            <a class="lnk" href="https://github.com/philipphager/recsys-mainstream-taste-bias" target="_blank" rel="noopener">Code</a>
+            <a class="lnk" href="https://philipphager.github.io/assets/posters/2023-recsys-mainstream-taste.pdf" target="_blank" rel="noopener">Poster</a>
+            <a class="lnk" href="https://dl.acm.org/doi/abs/10.1145/3604915.3608825" target="_blank" rel="noopener">BibTeX</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── SIGIR 2023 ── -->
+      <div class="item">
+        <img class="item-thumb" src="https://philipphager.github.io/assets/teasers/sigir-2023.jpeg" alt="SIGIR 2023 paper teaser">
+        <div>
+          <span class="item-venue">SIGIR 2023</span>
+          <div class="item-title">
+            <a href="https://arxiv.org/pdf/2304.09560" target="_blank" rel="noopener">
+              An Offline Metric for the Debiasedness of Click Models
+            </a>
+          </div>
+          <div class="item-authors">Romain Deffayet, <strong>Philipp Hager</strong>, Jean-Michel Renders, Maarten de Rijke</div>
+          <div class="item-venue-full">International ACM SIGIR Conference on Research and Development in Information Retrieval</div>
+          <div class="item-links">
+            <a class="lnk" href="https://arxiv.org/pdf/2304.09560" target="_blank" rel="noopener">PDF</a>
+            <a class="lnk" href="https://github.com/philipphager/sigir-cmip" target="_blank" rel="noopener">Code</a>
+            <a class="lnk" href="https://philipphager.github.io/assets/posters/2023-sigir-debiasedness.pdf" target="_blank" rel="noopener">Poster</a>
+            <a class="lnk" href="https://dl.acm.org/doi/abs/10.1145/3539618.3591639" target="_blank" rel="noopener">BibTeX</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── ECIR 2023 ── -->
+      <div class="item">
+        <img class="item-thumb" src="https://philipphager.github.io/assets/teasers/ecir-2023.jpeg" alt="ECIR 2023 paper teaser">
+        <div>
+          <span class="item-venue">ECIR 2023</span>
+          <div class="item-title">
+            <a href="https://philipphager.github.io/assets/papers/2023-ecir-cm-vs-ips.pdf" target="_blank" rel="noopener">
+              Contrasting Neural Click Models and Pointwise IPS Rankers
+            </a>
+          </div>
+          <div class="item-authors"><strong>Philipp Hager</strong>, Maarten de Rijke, Onno Zoeter</div>
+          <div class="item-venue-full">European Conference on Information Retrieval</div>
+          <div class="item-links">
+            <a class="lnk" href="https://philipphager.github.io/assets/papers/2023-ecir-cm-vs-ips.pdf" target="_blank" rel="noopener">PDF</a>
+            <a class="lnk" href="https://github.com/philipphager/ultr-cm-vs-ips" target="_blank" rel="noopener">Code</a>
+            <a class="lnk" href="https://philipphager.github.io/assets/posters/2022-cm-vs-ips.pdf" target="_blank" rel="noopener">Poster</a>
+            <a class="lnk" href="https://dl.acm.org/doi/10.1007/978-3-031-28244-7_26" target="_blank" rel="noopener">BibTeX</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+<!-- ══════════════════════════════════════════════
+     TALKS
+══════════════════════════════════════════════ -->
+<div class="wrap">
+  <section id="talks">
+    <div class="sec-head">
+      <h2>Selected Talks</h2>
+    </div>
+    <div class="item-list">
+
+      <!-- ── Hydra Tutorial ── -->
+      <div class="item">
+        <img class="item-thumb" src="https://philipphager.github.io/assets/teasers/2025-hydra-tutorial.jpeg" alt="">
+        <div>
+          <span class="item-venue">Tutorial</span>
+          <div class="item-title">
+            <a href="https://philipphager.github.io/assets/talks/2025-10-07-hydra-tutorial.pdf" target="_blank" rel="noopener">
+              Taming Hydra
+            </a>
+          </div>
+          <div class="item-authors">Philipp Hager</div>
+          <div class="item-venue-full">Soos talk at IRLab, University of Amsterdam</div>
+          <div class="item-links">
+            <a class="lnk" href="https://philipphager.github.io/assets/talks/2025-10-07-hydra-tutorial.pdf" target="_blank" rel="noopener">Slides</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── ICAI 2025 ── -->
+      <div class="item">
+        <img class="item-thumb" src="https://philipphager.github.io/assets/teasers/icai-2025.jpeg" alt="">
+        <div>
+          <span class="item-venue">ICAI 2025</span>
+          <div class="item-title">
+            <a href="https://philipphager.github.io/assets/talks/2025-07-01-icai25-reproducibility.pdf" target="_blank" rel="noopener">
+              A Practical Guide to Reproducible ML Research
+            </a>
+          </div>
+          <div class="item-authors">Philipp Hager</div>
+          <div class="item-venue-full">ICAI Summer School 2025</div>
+          <div class="item-links">
+            <a class="lnk" href="https://philipphager.github.io/assets/talks/2025-07-01-icai25-reproducibility.pdf" target="_blank" rel="noopener">Slides</a>
+            <a class="lnk" href="https://www.icai.ai/event/icai-summerschool---june-30-july-1" target="_blank" rel="noopener">Website</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── ESSIR 2024 ── -->
+      <div class="item">
+        <img class="item-thumb" src="https://philipphager.github.io/assets/teasers/essir-2024.jpeg" alt="">
+        <div>
+          <span class="item-venue">ESSIR 2024</span>
+          <div class="item-title">
+            <a href="https://philipphager.github.io/assets/talks/2024-07-02-essir24-reproducibility.pdf" target="_blank" rel="noopener">
+              Improvements That Add Up: An Opinionated Rant on Reproducibility and Progress in IR
+            </a>
+          </div>
+          <div class="item-authors">Philipp Hager</div>
+          <div class="item-venue-full">The 15th European Summer School on Information Retrieval</div>
+          <div class="item-links">
+            <a class="lnk" href="https://philipphager.github.io/assets/talks/2024-07-02-essir24-reproducibility.pdf" target="_blank" rel="noopener">Slides</a>
+            <a class="lnk" href="https://www.youtube.com/watch?v=u83lpBzClBA" target="_blank" rel="noopener">Video</a>
+            <a class="lnk" href="https://2024.essir.eu/speakers" target="_blank" rel="noopener">Website</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── WSDM 2024 ── -->
+      <div class="item">
+        <img class="item-thumb" src="https://philipphager.github.io/assets/teasers/wsdm-2024.jpeg" alt="">
+        <div>
+          <span class="item-venue">WSDM 2024</span>
+          <div class="item-title">
+            <a href="https://drive.google.com/file/d/1-sRsFkG4juBHqqQ-ces3HRvtYHpR0l7U/view" target="_blank" rel="noopener">
+              Unbiased Learning to Rank: On Recent Advances and Practical Applications
+            </a>
+          </div>
+          <div class="item-authors">Shashank Gupta, <strong>Philipp Hager</strong>, Jin Huang, Ali Vardasbi, Harrie Oosterhuis</div>
+          <div class="item-venue-full">ACM International Conference on Web Search and Data Mining</div>
+          <div class="item-links">
+            <a class="lnk" href="https://drive.google.com/file/d/1-sRsFkG4juBHqqQ-ces3HRvtYHpR0l7U/view" target="_blank" rel="noopener">Slides</a>
+            <a class="lnk" href="https://www.youtube.com/watch?v=fcqCkjgOnJ8" target="_blank" rel="noopener">Video</a>
+            <a class="lnk" href="https://sites.google.com/view/wsdm-2024-tutorial-ultr/" target="_blank" rel="noopener">Website</a>
+            <a class="lnk" href="https://dl.acm.org/doi/pdf/10.1145/3616855.3636451" target="_blank" rel="noopener">Paper</a>
+            <a class="lnk" href="https://dl.acm.org/doi/10.1145/3616855.3636451" target="_blank" rel="noopener">BibTeX</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── ICAI 2023 ── -->
+      <div class="item">
+        <img class="item-thumb" src="https://philipphager.github.io/assets/teasers/icai-2023.jpeg" alt="">
+        <div>
+          <span class="item-venue">ICAI 2023</span>
+          <div class="item-title">
+            <a href="https://philipphager.github.io/assets/talks/2023-09-28-mmll-icai.pdf" target="_blank" rel="noopener">
+              When Metrics Break Down — On Evaluating User Models from Clicks
+            </a>
+          </div>
+          <div class="item-authors">Philipp Hager</div>
+          <div class="item-venue-full">ICAI: The Labs — Machine Learning in the Service Industry 2023</div>
+          <div class="item-links">
+            <a class="lnk" href="https://philipphager.github.io/assets/talks/2023-09-28-mmll-icai.pdf" target="_blank" rel="noopener">Slides</a>
+            <a class="lnk" href="https://icai.ai/event/icai-the-labs-machine-learning-in-the-service-industry/" target="_blank" rel="noopener">Website</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── SIGIR Tutorial 2023 ── -->
+      <div class="item">
+        <img class="item-thumb" src="https://philipphager.github.io/assets/teasers/sigir-tutorial-2023.jpeg" alt="">
+        <div>
+          <span class="item-venue">SIGIR 2023</span>
+          <div class="item-title">
+            <a href="https://docs.google.com/presentation/d/1NdhDEn8xKPQO-J0YiF6KPKP20CiNLctF7krrGldEywY/present" target="_blank" rel="noopener">
+              Recent Advances in the Foundations and Applications of Unbiased Learning to Rank
+            </a>
+          </div>
+          <div class="item-authors">Shashank Gupta, <strong>Philipp Hager</strong>, Jin Huang, Ali Vardasbi, Harrie Oosterhuis</div>
+          <div class="item-venue-full">International ACM SIGIR Conference on Research and Development in Information Retrieval</div>
+          <div class="item-links">
+            <a class="lnk" href="https://docs.google.com/presentation/d/1NdhDEn8xKPQO-J0YiF6KPKP20CiNLctF7krrGldEywY/present" target="_blank" rel="noopener">Slides</a>
+            <a class="lnk" href="https://www.youtube.com/watch?v=fcqCkjgOnJ8" target="_blank" rel="noopener">Video</a>
+            <a class="lnk" href="https://sites.google.com/view/sigir-2023-tutorial-ultr" target="_blank" rel="noopener">Website</a>
+            <a class="lnk" href="https://philipphager.github.io/assets/tutorials/2023-sigir-ultr-tutorial.pdf" target="_blank" rel="noopener">Paper</a>
+            <a class="lnk" href="https://dl.acm.org/doi/abs/10.1145/3539618.3594247" target="_blank" rel="noopener">BibTeX</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+<!-- ══════════════════════════════════════════════
+     FOOTER
+══════════════════════════════════════════════ -->
+<footer>
+  <p>Photo by <a href="https://www.pooyakhandel.com/" target="_blank" rel="noopener">Pooya Khandel</a></p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
