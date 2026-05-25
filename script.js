@@ -14,7 +14,7 @@
   }
 
   function currentTheme() {
-    return root.getAttribute('data-theme') || 'light';
+    return root.getAttribute('data-theme') || 'dark';
   }
 
   // Toggle on click
